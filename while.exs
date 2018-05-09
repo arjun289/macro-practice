@@ -17,4 +17,3 @@ defmodule Loop do
 
   def break, do: throw :break
 end
-
